@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Downloads Overwrite Already Existing Files",
+    "description": "All downloads overwrite existing files instead of adding ' (1)', ' (2)', etc. Includes fix to remember folders.",
+    "version": "0.0.1",
+    "minimum_chrome_version": "26.0.1428",
+    "background": {
+        "scripts": ["bg.js"],
+        "persistent": false
+    },
+    "permissions": ["downloads"]
+}
