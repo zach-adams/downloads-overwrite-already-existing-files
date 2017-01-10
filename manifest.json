@@ -3,7 +3,7 @@
 	"name": "Downloads Overwrite Already Existing Files",
 	"short_name": "Downloads Overwrite Existing Files",
 	"description": "All downloads overwrite existing files instead of adding ' (1)', ' (2)', etc. Includes fix to remember folders.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"icons": {
 		"16": "icon16.png",
 		"48": "icon48.png",

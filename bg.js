@@ -1,7 +1,7 @@
 /**
 
  Downloads Overwrite Already Existing Files (I need a better name)
- v0.0.2 Zach Adams - zach@zach-adams.com
+ v0.0.3 Zach Adams - zach@zach-adams.com
 
  Source Code originally from Chromium extension API doc examples:
  https://chromium.googlesource.com/chromium/src/+/master/chrome/common/extensions/docs/examples/api/downloads/downloads_overwrite
